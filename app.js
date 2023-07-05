@@ -6,4 +6,4 @@ setInterval(function add() {
         element.innerHTML = number;
         number++;
     }
-}, 2000);
+}, 1000);
